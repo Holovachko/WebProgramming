@@ -11,7 +11,7 @@ var isSunk = false;
 while(isSunk == false){
 	guess = prompt("Введи цифру 0-6):");
 	if(guess < 0 || guess > 6){
-		alert("Я же просил от 0 до 6 ввести!");
+		alert("Введіть коректне число!");
 	}else{
 		guesses = guesses + 1;
 		if(guess == location1 || guess == location2 || guess == location3){
