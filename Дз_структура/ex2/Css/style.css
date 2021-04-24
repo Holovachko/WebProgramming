@@ -1,0 +1,33 @@
+*{
+    margin: auto;
+}
+
+.conteiner{
+    width: 99%;
+    height: 900px;
+    border: solid 5px black;
+    background: rgb(66, 209, 214);
+
+
+}
+
+header{
+    width: 60%;
+    height: 200px;
+    border: solid 5px black;
+    background: rgb(212, 43, 43);
+}
+section{
+    width: 60%;
+    height: 500px;
+    border: solid 5px black;
+    background: rgb(70, 190, 33);
+}
+
+footer{
+    width: 60%;
+    height: 170px;
+    border: solid 5px black;
+    background: rgb(131, 30, 189);
+
+}
